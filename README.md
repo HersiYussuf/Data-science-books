@@ -1,2 +1,2 @@
-# Data-science-books
-This is a list of great DS books that I am read always.
+# Data-Science-Books
+Complete end to end Datascience Books for various Application
